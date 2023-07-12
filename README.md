@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradip Subedi</h1>
+<h1 align="center">Hey👋,It's me Pradip</h1>
 <h3 align="left">Learner...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprasapradip&label=Profile%20views&color=0e75b6&style=flat" alt="sprasapradip" /> </p>
