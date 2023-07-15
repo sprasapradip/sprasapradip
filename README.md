@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprasapradip&label=Profile%20views&color=0e75b6&style=flat" alt="sprasapradip" /> </p>
 
+![GitHub stars](https://img.shields.io/github/stars/sprasapradip?style=social)
 <p align="left"> <a href="https://twitter.com/sprasamedia" target="blank"><img src="https://img.shields.io/twitter/follow/sprasamedia?logo=twitter&style=for-the-badge" alt="sprasamedia" /></a> </p>
 
 - 🔭 I’m currently working on [Website devloper](https://sprasamedia.com/projects)
