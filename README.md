@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋,It's me<a href="https://pradipsubedi1.com.np/" target="blank">" alt=Pradip Subedi</a> </h1>
+<h1 align="center">Hey👋,It's me<a href="https://pradipsubedi1.com.np/" target="blank">Pradip Subedi</a> </h1>
 <h3 align="left">Learner...</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
