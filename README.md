@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [sprasamedia.com/sprasapradip](sprasamedia.com/sprasapradip)
 
-- 📝 I regularly write articles on [https://sprasamedia.com](https://sprasamedia.com)
+- 📝 I regularly write articles on [https://pradipsubedi1.com.np](https://pradipsubedi1.com.np)
 
 - 📫 How to reach me **sprasapradip@gmail.com**
 
