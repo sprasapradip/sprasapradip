@@ -1,75 +1,74 @@
-<h1 align="center">Hey👋,It's me <a href="https://pradipsubedi1.com.np/" target="blank">Pradip Subedi</a> </h1>
-<h3 align="left">Learner...</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sprasamedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sprasamedia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pradip-subedi-03b112240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradip-subedi-03b112240" height="30" width="40" /></a>
-<a href="https://fb.com/sprasapradip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sprasapradip" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Pradip Subedi</h1>
+
+<h3 align="center">Electrical Engineer | Web Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="https://pradipsubedi1.com.np/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:sprasapradip@gmail.com">📧 Email</a>
 </p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprasapradip&label=Profile%20views&color=0e75b6&style=flat" alt="sprasapradip" /> </p>
+## 🚀 About Me
 
-![GitHub stars](https://img.shields.io/github/stars/sprasapradip?style=social)
-<p align="left"> <a href="https://twitter.com/sprasamedia" target="blank"><img src="https://img.shields.io/twitter/follow/sprasamedia?logo=twitter&style=for-the-badge" alt="sprasamedia" /></a> </p>
+- 🔭 Currently working on **Website Development Projects**
+- ⚡ Passionate about **Electrical Systems, Web Development & IoT**
+- 🧠 Always learning new technologies and improving my skills
+- 📝 I write articles on my website: [pradipsubedi1.com.np](https://pradipsubedi1.com.np)
+- 💼 Portfolio projects: [sprasamedia.com/sprasapradip](https://sprasamedia.com/sprasapradip)
+- 📫 Reach me at: **sprasapradip@gmail.com**
 
-- 🔭 I’m currently working on [Website devloper](https://sprasamedia.com/projects)
+---
 
-- 👨‍💻 All of my projects are available at [sprasamedia.com/sprasapradip](sprasamedia.com/sprasapradip)
-
-- 📝 I regularly write articles on [https://pradipsubedi1.com.np](https://pradipsubedi1.com.np)
-
-- 📫 How to reach me **sprasapradip@gmail.com**
-
-
-<h3 align="left">Languages and Tools:</h3>
-
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://twitter.com/sprasamedia" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+
+  <a href="https://linkedin.com/in/pradip-subedi-03b112240" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://facebook.com/sprasapradip" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
+---
 
+## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sprasapradip&show_icons=true&locale=en&layout=compact" alt="sprasapradip" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sprasapradip&show_icons=true&locale=en" alt="sprasapradip" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sprasapradip&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprasapradip&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sprasapradip&" alt="sprasapradip" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sprasapradip&theme=tokyonight"/>
+</p>
+
+---
+
+## 💡 Profile Highlights
+
+- Clean and responsive GitHub profile design
+- Focused on real engineering + development skills
+- Projects in web, electrical systems, and automation
+- Open to collaboration and freelance work
